@@ -1,0 +1,108 @@
+#principal{
+
+	background-image: url(../img/fondo1.png);
+	
+	background-repeat: no-repeat;
+	
+	background-attachment: fixed;
+	
+	background-size: cover;
+	
+	}
+#bodycss{
+	background-image: url(../img/cssfondo.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+#bodyhtml{
+	background-image: url(../img/htmlfondo.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+#bodyjs{
+	background-image: url(../img/fondojavascript.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+	#centrar{
+	text-align:center;
+	font-family:"impact";
+}
+#titulojs{
+    font-size: 26px;
+	text-align:center;
+	font-family:"Aharoni";
+	color:yellow;
+}
+#cuerpojs{
+	font-size: 19px;
+	text-align:justify;
+	font-family:"Aharoni";
+	color:white;
+	margin: 15%;
+}
+#titulocss{
+    font-size: 26px;
+	text-align:center;
+	font-family:"Aharoni";
+	color:lightblue;
+}
+
+
+#cuerpocss{
+	font-size: 19px;
+	text-align:justify;
+	font-family:"Aharoni";
+	color:white;
+	margin: 15%;
+}
+#titulohtml{
+    font-size: 26px;
+	text-align:center;
+	font-family:"Aharoni";
+	color:red;
+}
+#cuerpohtml{
+	font-size: 19px;
+	text-align:justify;
+	font-family:"Aharoni";
+	color:white;
+	margin: 15%;
+}
+.imgJS{
+	float: center;
+	width: 700px;
+	height: 400px;
+}
+.imgHTML{
+	float: center;
+	width: 400px;
+	height: 400px;
+}
+.imgCSS{
+	float: center;
+	width: 300px;
+	height: 400px;
+}
+.icon {
+	
+	float:right;
+	width:50px;
+	height:50px;
+}
+.iconHTML{
+	float:center;
+	width: 400px;
+	height:400px;
+}
+.iconJS{
+	float:center;
+	width: 700px;
+	height:400px;
+}
+.iconCSS{
+	float:center;
+	width: 300px;
+	height:400px;
+}
